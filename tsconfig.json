@@ -1,0 +1,13 @@
+{
+  "include": ["./src/**/*", "templates"],
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "declaration": false,
+    "sourceMap": false,
+    "outDir": "dist",
+    "rootDir": "src",
+    "strict": true,
+    "esModuleInterop": true
+  }
+}
